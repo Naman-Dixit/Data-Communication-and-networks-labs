@@ -1,1 +1,1 @@
-# Data-Connections-and-networks-labs
+# Data-Communications-and-networks-labs
